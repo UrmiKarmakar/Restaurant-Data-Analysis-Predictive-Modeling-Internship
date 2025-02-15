@@ -1,7 +1,6 @@
 # Restaurant-Data-Analysis-Predictive-Modeling
 
 Restaurant Data Analysis & Predictive Modeling
-
 This repository contains a comprehensive project for analyzing and predicting restaurant ratings based on a variety of features. The analysis includes several stages:
 
 Data Exploration & Preprocessing: Explore and preprocess the dataset, handle missing values, perform data type conversions, and analyze class imbalances in the target variable "Aggregate Rating."
